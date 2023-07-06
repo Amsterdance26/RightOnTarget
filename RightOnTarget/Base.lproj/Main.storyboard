@@ -49,6 +49,9 @@
                             <constraint firstItem="G22-pM-lvO" firstAttribute="top" secondItem="jEE-yH-gXn" secondAttribute="bottom" constant="30" id="zAz-sd-QQ4"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="slider" destination="w0R-7a-kdB" id="IfR-VX-EnK"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
